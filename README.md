@@ -27,6 +27,7 @@ Em 2012, já possuía mais de 3 milhões de usuários.
 📌 Marco Importante
 2018 → A Microsoft comprou o GitHub por US$ 7,5 bilhões.
 Inicialmente, houve desconfiança da comunidade.
+
 A Microsoft manteve o foco no open source e no acesso gratuito para projetos públicos.
 Após a aquisição, surgiram novos serviços:
 
